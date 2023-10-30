@@ -11,7 +11,9 @@
   "It's So Sad Resheph Died of Ligma"
   "petrak@"
   "0.1.0"
-  :description "Who's Resheph?")
+  :description "Who's Resheph?"
+  :thumbnail "thumbnail.png"
+  :steam-id 3066508592)
 
 # (set-debug-output true)
 
